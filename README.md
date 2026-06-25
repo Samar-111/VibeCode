@@ -23,18 +23,35 @@
 
 ## 🧱 Tech Stack
 
-| Layer         | Technology                                   |
-|---------------|----------------------------------------------|
-| Framework     | Next.js 15 (App Router)                      |
-| Styling       | TailwindCSS, ShadCN UI                       |
-| Language      | TypeScript                                   |
-| Auth          | NextAuth (Google + GitHub OAuth)             |
-| Editor        | Monaco Editor                                |
-| AI Suggestion | Ollama (LLMs running locally via Docker)     |
-| Runtime       | WebContainers                                |
-| Terminal      | xterm.js                                     |
-| Database      | MongoDB (via DATABASE_URL)                   |
+<p align="center">
 
+<!-- Framework & Language -->
+<img src="https://skillicons.dev/icons?i=nextjs,typescript,javascript" />
+
+<!-- UI & Styling -->
+<img src="https://skillicons.dev/icons?i=tailwind,html,css" />
+
+<!-- Authentication & Database -->
+<img src="https://skillicons.dev/icons?i=github,mongodb" />
+
+<!-- Development Tools -->
+<img src="https://skillicons.dev/icons?i=docker,nodejs,npm" />
+
+</p>
+
+| Layer | Technology |
+|------|------------|
+| ⚛️ Framework | Next.js 15 (App Router) |
+| 🟦 Language | TypeScript |
+| 🎨 Styling | TailwindCSS + ShadCN UI |
+| 🔐 Authentication | NextAuth with Google & GitHub OAuth |
+| 🖊️ Code Editor | Monaco Editor |
+| 🤖 AI Suggestions | Ollama Local LLMs |
+| ⚙️ Runtime | WebContainers |
+| 💻 Terminal | xterm.js |
+| 🍃 Database | MongoDB |
+| 📦 Package Manager | npm |
+| 🐳 Local AI Runtime | Docker |
 ---
 
 ## 🛠️ Getting Started
