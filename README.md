@@ -59,8 +59,8 @@
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/CodeForge.git
-cd CodeForge
+git clone https://github.com/your-username/VibeCode.git
+cd VibeCode
 ````
 
 ### 2. Install Dependencies
